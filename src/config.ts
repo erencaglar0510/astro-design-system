@@ -2,9 +2,9 @@ export const SITE = {
   title: "Astro Design System",
   description: "Astro theme to build your design system fast.",
   defaultLanguage: "en_US",
-  twitter: "@jordienr",
-  github: "jordienr",
-  linkedin: "linkedinUsername",
+  twitter: "",
+  github: "",
+  linkedin: "",
 };
 
 export const OPEN_GRAPH = {
